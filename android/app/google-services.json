@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016234310515",
+    "project_id": "rniam-42005",
+    "storage_bucket": "rniam-42005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016234310515:android:e8832b8e89e03873b1e306",
+        "android_client_info": {
+          "package_name": "com.rniam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016234310515-ufgmil0a1j0ici14eogamms9sotsk3ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXq5vb3j2dXJrKuQ91r5yxXqz4hDFWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016234310515-ufgmil0a1j0ici14eogamms9sotsk3ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
